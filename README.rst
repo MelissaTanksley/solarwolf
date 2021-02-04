@@ -1,3 +1,5 @@
+Reserve for Joe and Wil
+
 SolarWolf - http://pygame.org/shredwheat/solarwolf
 by Pete "ShredWheat" Shinners" - pete@shinners.org
 
